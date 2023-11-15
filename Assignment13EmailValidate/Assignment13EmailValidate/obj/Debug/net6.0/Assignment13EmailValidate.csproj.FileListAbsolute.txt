@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\bin\Debug\net6.0\Assignment13EmailValidate.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\bin\Debug\net6.0\Assignment13EmailValidate.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\bin\Debug\net6.0\Assignment13EmailValidate.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\bin\Debug\net6.0\Assignment13EmailValidate.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\bin\Debug\net6.0\Assignment13EmailValidate.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\Assignment13EmailValidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\Assignment13EmailValidate.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\Assignment13EmailValidate.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\Assignment13EmailValidate.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\Assignment13EmailValidate.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\refint\Assignment13EmailValidate.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\Assignment13EmailValidate.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\Assignment13EmailValidate.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\14-11-2023\Assignment13EmailValidate\Assignment13EmailValidate\obj\Debug\net6.0\ref\Assignment13EmailValidate.dll
